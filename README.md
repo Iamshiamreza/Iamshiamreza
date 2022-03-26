@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Iamshiamreza
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Django,React
+- 🌱 I’m currently learning Python,Django
 - 📫 How to reach me shiammiftybinreza@gmail.com
 
 <!---
